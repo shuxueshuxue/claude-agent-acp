@@ -1,3 +1,9 @@
+> **Gugu build.** This is `@gugu-acp/claude-agent-acp`, a build of
+> [@agentclientprotocol/claude-agent-acp](https://github.com/agentclientprotocol/claude-agent-acp)
+> used by Gugu. It is the upstream source at the tag in its version (`0.81.1-gugu.N` = upstream
+> v0.81.1) plus a few source commits prefixed `gugu:`; each commit message says why it is needed,
+> which upstream PR it corresponds to, and when it can be dropped. Licensed Apache-2.0 like upstream.
+
 # ACP adapter for the Claude Agent SDK
 
 [![npm](https://img.shields.io/npm/v/%40agentclientprotocol%2Fclaude-agent-acp)](https://www.npmjs.com/package/@agentclientprotocol/claude-agent-acp)

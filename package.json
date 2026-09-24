@@ -1,10 +1,10 @@
 {
-  "name": "@agentclientprotocol/claude-agent-acp",
+  "name": "@gugu-acp/claude-agent-acp",
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.81.1",
-  "description": "An ACP-compatible coding agent powered by the Claude Agent SDK (TypeScript)",
+  "version": "0.81.1-gugu.1",
+  "description": "Gugu build of @agentclientprotocol/claude-agent-acp: upstream source plus a few documented Gugu commits",
   "main": "dist/lib.js",
   "types": "dist/lib.d.ts",
   "bin": {
@@ -57,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agentclientprotocol/claude-agent-acp.git"
+    "url": "git+https://github.com/shuxueshuxue/claude-agent-acp.git"
   },
   "author": "Zed Industries",
   "license": "Apache-2.0",
